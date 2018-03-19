@@ -1,4 +1,0 @@
-file1 = open("test.txt")
-file1.read()
-print(file1)
-file1.close()
